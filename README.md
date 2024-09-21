@@ -2,6 +2,8 @@
 
 This is a backend for an e-commerce site using Express.js and Sequelize. The app connects to a PostgreSQL database and provides API routes for managing categories, products, and tags.
 
+![alt text](Develop/assets/insomnia_screenshot.png)
+
 ## Getting Started
 
 ### Setup
